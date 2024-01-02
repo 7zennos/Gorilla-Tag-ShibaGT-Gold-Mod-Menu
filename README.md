@@ -1,7 +1,7 @@
 # Gorilla-Tag-ShibaGT-Gold-Mod-Menu
 ShibaGT Gold Mod Menu (and compiled DLL) (trash p2c now i look at source LOOOL)
 
-Former loader dev, bro wouldnt want me anymore and replaced me with a dll loader and it got cracked by a harmony patch
+Outspect was Former loader dev, bro wouldnt want outspect anymore and replaced outspect with a dll loader and it got cracked by a harmony patch
 
 Eye damage included in the source code, honestly forgot shibagt was a skid before I saw this
 
