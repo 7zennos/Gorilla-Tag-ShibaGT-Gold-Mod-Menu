@@ -8,3 +8,5 @@ Eye damage included in the source code, honestly forgot shibagt was a skid befor
 (you can use it like any normal mod menu by dragging the compiled dll right into your bepinex folder)
 
 go ahead skids and skid the masterskid menu
+
+credits ian
